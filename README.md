@@ -17,3 +17,25 @@ Of these, 605,000 are a first heart attack 200,000 happen to people who have alr
 About 1 in 5 heart attacks are silent—the damage is done, but the person is not aware of it.
 #### The main goal of this research project
 The goal field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
+#### Important findings
+##### More risks of getting heart disease:
+1. Women than men
+2. Type 2 of chest pain
+3. Women with 2-Fixed defect of Thalassemia
+4. Men with 2-Fixed defect and 3-Reversable defect of Thalassemia
+5. Value 0 of Major Vessels
+6. High heart rate
+7. Value 0 and 1 of Resting Electrocardiographic Results
+##### Less risks of getting heart disease:
+1. Men than women
+2. Type 0 of chest pain
+3. Value 2 of Resting Electrocardiographic Results
+4. Low cholesterol level
+5. The young patient
+6. Low value of ST depression induced by exercise relative to rest
+7. Low value of resting blood pressure
+#### Conclusion
+- Heart disease is a general term that includes many types of heart problems.
+- Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States.
+- In this research project we've tried to investigate factors that influence the occurrence of heart disease in men and women and find the best machine learning model that can predict the risk of a patient's cardiovascular problems.
+- We hope that by knowing your risk factors for cardiovascular disease with our machine learning model, you will be able to take action and reduce or prevent them.
