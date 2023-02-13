@@ -37,5 +37,5 @@ The goal field refers to the presence of heart disease in the patient. It is int
 #### Conclusion
 - Heart disease is a general term that includes many types of heart problems.
 - Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States.
-- In this research project we've tried to investigate factors that influence the occurrence of heart disease in men and women and find the best machine learning model that can predict the risk of a patient's cardiovascular problems.
+- In this research project we've tried to investigate factors that influence the occurrence of heart disease in men and women and found the best machine learning model that can predict the risk of a patient's cardiovascular problems.
 - We hope that by knowing your risk factors for cardiovascular disease with our machine learning model, you will be able to take action and reduce or prevent them.
